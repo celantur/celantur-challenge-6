@@ -47,7 +47,7 @@ help us to assign you work that is most suited to your competence and preference
 #### Mathematics
 
 
-#### Software Architecturing
+#### Software Architecture
 
 
 #### Scrum

@@ -22,7 +22,7 @@ Don't hesitate to write us if you have any questions during the challenge.
 
 
 Celantur Infrastructure
------------
+-----------------------
 
 We have a scalable anonymisation solution with following layers:
 
@@ -48,10 +48,13 @@ Tasks
 
 ### Pre-interview preparations
 
-1. Reflect on your last major software project. 
-  What were the customer requirements? 
-  What were the (technical and non-technical) challenges? 
+1. Think about how you can implement the Celantur Infrastructure in AWS.<br />
+   How do you handle high throughput of files, ensure reliability, security and scalability?
+   What can you concretely do to save costs?
 2. Fill out the [Self-evaluation matrix](./Self-Evaluation.md).
+3. Reflect on your last major software project.<br /> 
+   What were the customer requirements?<br />
+   What were the (technical and non-technical) challenges? 
 
 
 Deliverables

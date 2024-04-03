@@ -38,12 +38,12 @@ Tasks
 
 ### Coding challenge
 
-1. Create entity-relationship diagrammes for the database.
-2. Implement data models for the processor, storage and REST layers using `dataclasses` or `Pydantic`.
-3. Implement a small REST server using FastAPI or Flask with two endpoints (`POST /task` and `GET /task/{id}`)
+1. Implement data models for the processor, storage and REST layers using `dataclasses` or `Pydantic`.
+2. Implement a small REST server using FastAPI with two endpoints (`POST /task` and `GET /task/{id}`)
    1. `POST /task` receives the processing information as body parameters, write them into the database and returns the task-id. (Ignore file upload)
    2. `GET /task/{id}` returns the processing information. 
-4. Share your (private) repository with [@celantor](https://github.com/celantor).
+3. Write unit and API tests.
+3. Share your (private) repository with [@celantor](https://github.com/celantor).
 
 
 ### Pre-interview preparations
@@ -51,15 +51,16 @@ Tasks
 1. Think about how you can implement the Celantur Infrastructure in AWS.<br />
    How do you handle high throughput of files, ensure reliability, security and scalability?
    What can you concretely do to save costs?
-2. Fill out the [Self-evaluation matrix](./Self-Evaluation.md).
-3. Reflect on your last major software project.<br /> 
+2. Reflect on your last major software project.<br />
    What were the customer requirements?<br />
    What were the (technical and non-technical) challenges? 
+3. Fill out the [Self-evaluation matrix](./Self-Evaluation.md).
 
 
 Deliverables
 ------------
 
-- [ ] Code and diagrammes.
+- [ ] Code.
+- [ ] Tests.
 - [ ] Documentation how to run the code.
 - [ ] [Self-evaluation matrix](./Self-Evaluation.md).
